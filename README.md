@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vijayg963
 - 👀 I’m interested in Reading & Traveling.
-- 🌱 I’m currently learning Full Stack Web devloper
+- 🌱 I’m currently learning Full Stack Web developer Full
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me vijayg963@gmail.com
 
