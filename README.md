@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vijayg963
+- 👋 Hi, I’m Vijay Gupta, MERN stack developer.
 - 👀 I’m interested in Reading & Traveling.
 - 🌱 I’m currently Working Full Stack Web developer.
 - 💞️ I’m looking to collaborate on github
