@@ -2,9 +2,9 @@
 
 ## Senior Frontend Engineer
 
-I build scalable, production-ready web applications with **React, Next.js, TypeScript, and JavaScript**, with experience across full-stack development, APIs, cloud deployment, and modern frontend architecture.
+I’m a frontend-focused software engineer with **5+ years of professional development experience since 2021**, building scalable, production-ready web applications with **React, Next.js, TypeScript, and JavaScript**. I also work across full-stack development, APIs, cloud deployment, and modern frontend architecture.
 
-- 💼 **4+ years** building web applications
+- 💼 **5+ years of professional experience** (since 2021)
 - ⚛️ **Frontend:** React.js, Next.js, TypeScript, JavaScript, HTML5, CSS3, SCSS, Tailwind CSS
 - 🧩 **State & Data:** React Query, Zustand, SWR, GraphQL
 - 🏗️ **Backend:** Node.js, Express.js, MongoDB, PostgreSQL
@@ -51,5 +51,5 @@ I build scalable, production-ready web applications with **React, Next.js, TypeS
 
 ---
 
-> Building, learning, and improving one commit at a time.
+> Building, learning, and improving since 2021.
 
