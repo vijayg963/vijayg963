@@ -12,6 +12,15 @@ I’m a frontend-focused software engineer with **5+ years of professional devel
 - 🧪 **Engineering:** Unit/Integration/E2E testing, accessibility, performance optimization
 - 🏢 **Architecture:** Turborepo, reusable component systems, API-driven applications
 
+## 💼 Career Journey
+
+| Period | Role | Focus |
+| --- | --- | --- |
+| **2021 – 2022** | React Developer | React.js, JavaScript, responsive web applications |
+| **2022 – 2024** | MERN Stack Developer | React, TypeScript, Node.js, APIs, MongoDB |
+| **2024 – 2025** | React Manager | Frontend architecture, React applications, team collaboration |
+| **2024 – Present** | Software Engineer | Scalable web applications, frontend architecture, full-stack development |
+
 ### What I enjoy building
 
 - High-performance React and Next.js applications
